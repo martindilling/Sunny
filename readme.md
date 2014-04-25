@@ -10,7 +10,7 @@ Added functionality to get information related to sunrise and sunset for a speci
 ```json
 {
     "require": {
-        "?": "*"
+        "martindilling/sunny": "0.*"
     }
 }
 ```
