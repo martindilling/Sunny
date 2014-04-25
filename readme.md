@@ -26,6 +26,8 @@ printf("Now: %s", Sunny::now());
 
 ### Example
 
+You can use it as you would normally use Carbon, but with some extra functionallity:
+
 ```php
 $day = new Martindilling\Sunny\Sunny('2014-04-25', 'Europe/Copenhagen');
 $day->setLocation(56.4618773, 10.0194839);
