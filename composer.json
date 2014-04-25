@@ -2,6 +2,7 @@
     "name": "martindilling/sunny",
     "type": "library",
     "description": "Extends Carbon with sunrise/sunset functionality.",
+    "homepage": "https://github.com/martindilling/Sunny",
     "keywords": [
         "date",
         "time",
